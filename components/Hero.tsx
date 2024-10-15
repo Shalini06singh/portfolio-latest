@@ -35,7 +35,7 @@ const Hero = () => {
             words="I transform Concepts into Seamless Experience"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text lg lg:text-2xl">
-            Hi!!... I'm Shalini Singh
+            Hi!!... I&apos;m Shalini Singh
           </p>
           <a href="#projects">
             <MagicButton

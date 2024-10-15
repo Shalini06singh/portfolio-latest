@@ -1,7 +1,6 @@
 import React from "react";
 import MagicButton from "./ui/MagicButton";
 import { FaLocationArrow } from "react-icons/fa";
-import { socialMedia } from "@/data";
 import Link from "next/link";
 import { Button } from "./ui/MovingBorders";
 
