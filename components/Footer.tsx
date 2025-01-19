@@ -15,7 +15,7 @@ const Footer = () => {
               <Link href={"https://github.com/Shalini06singh"}>
                 <Button
                   borderRadius="1.75rem"
-                  className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
+                  className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800 px-6 py-3 text-lg"
                 >
                   GitHub
                 </Button>
@@ -23,7 +23,7 @@ const Footer = () => {
               <Link href={"https://www.linkedin.com/in/shalini06/"}>
                 <Button
                   borderRadius="1.75rem"
-                  className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
+                  className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800 px-6 py-3 text-lg"
                 >
                   LinkedIn
                 </Button>
@@ -44,7 +44,7 @@ const Footer = () => {
 
       <div className="flex mt-16 md:flex-row flex-col justify-center items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
-          Copyright © 2024 Made with ♡ Shalini Singh
+          Copyright © 2025 Made with ♡ Shalini Singh
         </p>
       </div>
     </footer>
