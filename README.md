@@ -1,7 +1,7 @@
 
 #My-Portfolio
 
-Project Link: https://portfolio-latest-lemon-eta.vercel.app/
+Project Link: https://portfolio-latest-fwl3ifcpz-shalini-singhs-projects-c725d97a.vercel.app/
 
 
 Built with Next.js for handling the user interface, Three.js for rendering 3D elements, Framer motion for beautiful animations, and styled with TailwindCSS, this portfolio demonstrates the developer's skills in a unique manner that creates a lasting impact.
